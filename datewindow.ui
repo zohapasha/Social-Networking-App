@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DateWindow</class>
+ <widget class="QDialog" name="DateWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>689</width>
+    <height>483</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox_3">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>691</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Rockwell Extra Bold</family>
+     <pointsize>24</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">/* Stylesheet for GroupBox */
+QGroupBox {
+    background-color: #0B2161; /* Royal deep blue background */
+    border:none;
+  
+}
+
+/* Stylesheet for Labels */
+QLabel {
+    background-color: transparent; 
+    color: white; /* White text */
+}
+
+/* Stylesheet for LineEdits */
+QLineEdit {
+    background-color: transparent; /* Transparent background */
+    color: white; /* White text */
+    border: 2px solid white; /* White border */
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QLineEdit:hover {
+    border: 2px solid #FFFFFF; /* Lighter white border on hover */
+}
+
+QLineEdit:selected {
+    background-color: #D8BFD8; /* Light purple background on selection */
+}
+
+/* Stylesheet for PushButton */
+QPushButton {
+    background-color: #FFFFFF; /* White background */
+    color: black; /* Black text */
+    border: 2px solid white; /* White border */
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
+QPushButton:hover {
+    background-color: #D8BFD8; /* Light purple background on hover */
+}
+
+QPushButton:pressed {
+    background-color: #A9A9A9; /* Dark gray background on pressed */
+}
+
+QPushButton:selected {
+    background-color: #D8BFD8; /* Light purple background on selection */
+}
+</string>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+   <widget class="QPushButton" name="continue_2">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>140</y>
+      <width>201</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton {
+    background-color: #FFFFFF;
+    color: black; /* Black text */
+    border: none;
+}
+
+QPushButton:hover {
+	background-color: rgb(179, 218, 255);
+}
+
+QPushButton:pressed {
+    background-color: #A9A9A9; /* Dark gray background on pressed */
+}
+
+QPushButton:selected {
+    background-color: #D8BFD8; /* Light purple background on selection */}</string>
+    </property>
+    <property name="text">
+     <string>Continue</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>60</y>
+      <width>81</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:white;</string>
+    </property>
+    <property name="text">
+     <string>Enter Date:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="date">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>90</y>
+      <width>171</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:white;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="placeholderText">
+     <string>e.g 23/2/1024</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>160</y>
+      <width>81</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:white;</string>
+    </property>
+    <property name="text">
+     <string>Enter Time:</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="time">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>200</y>
+      <width>161</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:white;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="placeholderText">
+     <string>e.g 10::23:07</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QLabel" name="welcomeLabel">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>340</y>
+     <width>431</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Rockwell Extra Bold</family>
+     <pointsize>24</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: transparent;
+color:#0B2161;;
+
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

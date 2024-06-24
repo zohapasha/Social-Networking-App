@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1b6abb28574cb9427dc7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ZOHA",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ZOHA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZOHA-Debug-8473cdb50dbff324cc98.json",
+					"name" : "ZOHA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZOHA_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZOHA_autogen-Debug-b7f8e1ffd4edf883cad2.json",
+					"name" : "ZOHA_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZOHA_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZOHA_autogen_timestamp_deps-Debug-e55b8cd530bbca5f61b5.json",
+					"name" : "ZOHA_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Iqra Pasha/Documents/ZOHA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

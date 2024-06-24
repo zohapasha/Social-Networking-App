@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>shareamemory</class>
+ <widget class="QDialog" name="shareamemory">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>507</width>
+    <height>610</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">b
+background-color: rgb(255, 255, 255);</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>20</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+     <italic>true</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:white;
+background-color: transparent;</string>
+   </property>
+   <property name="text">
+    <string>Lets Share A Memory</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="originalpostid">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>130</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    color: white;
+    border: 3px solid white; /* Add a white border */
+background-color:#0B2161;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+QLineEdit:pressed {
+    background-color: rgba(255, 255, 255, 0.4); 
+}
+</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="descriptionofmemory">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>220</y>
+     <width>391</width>
+     <height>161</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    color: white;
+    border: 3px solid white; /* Add a white border */
+background-color:#0B2161;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+QLineEdit:pressed {
+    background-color: rgba(255, 255, 255, 0.4); /* Light grey color with 40% opacity */
+}
+</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="currentdate">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>420</y>
+     <width>391</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    color: white;
+    border: 3px solid white; /* Add a white border */
+background-color:#0B2161;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+QLineEdit:pressed {
+    background-color: rgba(255, 255, 255, 0.4); /* Light grey color with 40% opacity */
+}
+</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>490</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI Emoji</family>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>Share</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>100</y>
+     <width>151</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:white;
+background-color:transparent</string>
+   </property>
+   <property name="text">
+    <string> Original Post Id:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>190</y>
+     <width>151</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:white;
+background-color:transparent</string>
+   </property>
+   <property name="text">
+    <string> Description:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>390</y>
+     <width>111</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:white;
+background-color:transparent</string>
+   </property>
+   <property name="text">
+    <string>Today's Date:</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>-50</x>
+     <y>0</y>
+     <width>561</width>
+     <height>611</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border:none;
+background-color:#0B2161;</string>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+  </widget>
+  <zorder>groupBox</zorder>
+  <zorder>label</zorder>
+  <zorder>originalpostid</zorder>
+  <zorder>descriptionofmemory</zorder>
+  <zorder>currentdate</zorder>
+  <zorder>pushButton</zorder>
+  <zorder>label_2</zorder>
+  <zorder>label_3</zorder>
+  <zorder>label_4</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>createPost</class>
+ <widget class="QDialog" name="createPost">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>588</width>
+    <height>587</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>20</y>
+     <width>401</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>22</pointsize>
+     <italic>true</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:white;
+background-color: transparent;</string>
+   </property>
+   <property name="text">
+    <string>Lets Create A New Post</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>110</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: white;
+background-color:transparent;</string>
+   </property>
+   <property name="text">
+    <string> Post ID:</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="postid">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>140</y>
+     <width>371</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    color: white;
+    border: 3px solid white; /* Add a white border */
+background-color:#0B2161;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+QLineEdit:pressed {
+    background-color: rgba(255, 255, 255, 0.4); /* Light grey color with 40% opacity */
+}
+</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="description">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>230</y>
+     <width>371</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    color: white;
+    border: 3px solid white;
+background-color:#0B2161;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+QLineEdit:pressed {
+    background-color: rgba(255, 255, 255, 0.4); /* Light grey color with 40% opacity */
+}
+</string>
+   </property>
+   <property name="placeholderText">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>200</y>
+     <width>141</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: white;
+background-color:transparent;</string>
+   </property>
+   <property name="text">
+    <string> Post Description</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="todaysdate">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>420</y>
+     <width>371</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    color: white;
+    border: 3px solid white;
+background-color:#0B2161;
+}
+
+QLineEdit:hover {
+    background-color: rgba(255, 255, 255, 0.2); 
+}
+
+QLineEdit:pressed {
+    background-color: rgba(255, 255, 255, 0.4); /* Light grey color with 40% opacity */
+}
+</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>390</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: white;
+background-color:transparent;</string>
+   </property>
+   <property name="text">
+    <string>Today's Date</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="createpushButton">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>480</y>
+     <width>121</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>16</pointsize>
+     <italic>true</italic>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(255, 255, 255);
+</string>
+   </property>
+   <property name="text">
+    <string>Create</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>591</width>
+     <height>581</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border:none;
+background-color: #0B2161;</string>
+   </property>
+   <property name="title">
+    <string/>
+   </property>
+  </widget>
+  <zorder>groupBox</zorder>
+  <zorder>label</zorder>
+  <zorder>label_2</zorder>
+  <zorder>postid</zorder>
+  <zorder>description</zorder>
+  <zorder>label_3</zorder>
+  <zorder>todaysdate</zorder>
+  <zorder>label_4</zorder>
+  <zorder>createpushButton</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

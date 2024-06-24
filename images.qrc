@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>girl 2.jpeg</file>
+        <file>girl 3.jpg</file>
+        <file>girl 4.jpg</file>
+        <file>girl1.jpeg</file>
+        <file>left arrow.png</file>
+        <file>man 3.png</file>
+        <file>man 5.jpg</file>
+        <file>man 6.jpg</file>
+        <file>man2.jpg</file>
+        <file>man4.jpg</file>
+        <file>plus.png</file>
+        <file>right arrow.png</file>
+        <file>man 1.jpg</file>
+        <file>fatima.jpg</file>
+        <file>redheart.png</file>
+        <file>backdrop.jpg</file>
+        <file>page3.png</file>
+        <file>page4.jpg</file>
+        <file>page5.jpg</file>
+        <file>page6.png</file>
+        <file>page1.png</file>
+    </qresource>
+</RCC>

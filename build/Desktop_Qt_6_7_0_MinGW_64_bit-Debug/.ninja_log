@@ -1,0 +1,75 @@
+# ninja log v5
+12	492	7373710936541140	ZOHA_autogen/timestamp	e3a10045461d146
+12	492	7373710936541140	ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+499	7999	7373711011935133	CMakeFiles/ZOHA.dir/ZOHA_autogen/mocs_compilation.cpp.obj	66ec4e3534f0cc6d
+12	492	7373710936541140	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/timestamp	e3a10045461d146
+8516	9203	7373711023921977	ZOHA.exe	b88dc6d0ea5debc
+509	8049	7373711012438302	CMakeFiles/ZOHA.dir/mainwindow.cpp.obj	43691dd3a1f6f308
+12	492	7373710936541140	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+549	8271	7373711014653209	CMakeFiles/ZOHA.dir/homepage.cpp.obj	263d2ca05f8a0d79
+2652	7851	7373235235687161	CMakeFiles/ZOHA.dir/main.cpp.obj	865fedc1aa0eae2f
+519	8516	7373711017112279	CMakeFiles/ZOHA.dir/socialapp.cpp.obj	da02fb49ff0e6441
+528	8119	7373711013143985	CMakeFiles/ZOHA.dir/signup.cpp.obj	88142bf4595eb58c
+504	7468	7373711006597988	CMakeFiles/ZOHA.dir/datewindow.cpp.obj	2ad63e336a30322a
+159	7727	7373706477284468	CMakeFiles/ZOHA.dir/classes.cpp.obj	eeab04e5feaf9360
+524	7502	7373711006897192	CMakeFiles/ZOHA.dir/friendwindow.cpp.obj	5b26420695d41892
+7789	8531	7373235242663983	CMakeFiles/ZOHA.dir/ZOHA_autogen/EWIEGA46WW/qrc_images.cpp.obj	b5c9b85830d09a50
+514	7029	7373711001693896	CMakeFiles/ZOHA.dir/timeline.cpp.obj	73c538b29c545c2b
+533	8031	7373711012238845	CMakeFiles/ZOHA.dir/createpost.cpp.obj	f97cc21858970ae
+544	7420	7373711005959687	CMakeFiles/ZOHA.dir/shareamemory.cpp.obj	ffe3bbe158a3a08b
+538	7176	7373711003229797	CMakeFiles/ZOHA.dir/activity.cpp.obj	2a41a61db11276c9
+2422	2648	7373235183360979	ZOHA_autogen/EWIEGA46WW/qrc_images.cpp	a620aaeffb8539db
+2422	2648	7373235183360979	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/EWIEGA46WW/qrc_images.cpp	a620aaeffb8539db
+554	7568	7373711007615258	CMakeFiles/ZOHA.dir/viewpage.cpp.obj	369d4b6830975807
+26	537	7373711616214064	ZOHA_autogen/timestamp	e3a10045461d146
+26	537	7373711616214064	ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+26	537	7373711616214064	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/timestamp	e3a10045461d146
+26	537	7373711616214064	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+566	6131	7373711668594649	CMakeFiles/ZOHA.dir/friendwindow.cpp.obj	5b26420695d41892
+599	6133	7373711671997868	CMakeFiles/ZOHA.dir/viewpage.cpp.obj	369d4b6830975807
+594	6281	7373711672895469	CMakeFiles/ZOHA.dir/shareamemory.cpp.obj	ffe3bbe158a3a08b
+556	6283	7373711673035107	CMakeFiles/ZOHA.dir/datewindow.cpp.obj	2ad63e336a30322a
+571	6284	7373711673424049	CMakeFiles/ZOHA.dir/timeline.cpp.obj	73c538b29c545c2b
+561	6406	7373711674940472	CMakeFiles/ZOHA.dir/signup.cpp.obj	88142bf4595eb58c
+589	6420	7373711675083846	CMakeFiles/ZOHA.dir/activity.cpp.obj	2a41a61db11276c9
+550	6549	7373711676372907	CMakeFiles/ZOHA.dir/mainwindow.cpp.obj	43691dd3a1f6f308
+584	6663	7373711677508264	CMakeFiles/ZOHA.dir/createpost.cpp.obj	f97cc21858970ae
+604	6684	7373711677744041	CMakeFiles/ZOHA.dir/homepage.cpp.obj	263d2ca05f8a0d79
+544	6756	7373711678469760	CMakeFiles/ZOHA.dir/ZOHA_autogen/mocs_compilation.cpp.obj	66ec4e3534f0cc6d
+578	7112	7373711681998721	CMakeFiles/ZOHA.dir/socialapp.cpp.obj	da02fb49ff0e6441
+7112	7802	7373711688846991	ZOHA.exe	b88dc6d0ea5debc
+13	407	7373714949884949	ZOHA_autogen/timestamp	e3a10045461d146
+13	407	7373714949884949	ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+13	407	7373714949884949	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/timestamp	e3a10045461d146
+13	407	7373714949884949	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+434	8809	7373715033737763	CMakeFiles/ZOHA.dir/timeline.cpp.obj	73c538b29c545c2b
+424	10202	7373715047499669	CMakeFiles/ZOHA.dir/classes.cpp.obj	eeab04e5feaf9360
+420	11649	7373715062533562	CMakeFiles/ZOHA.dir/datewindow.cpp.obj	2ad63e336a30322a
+445	11972	7373715065741232	CMakeFiles/ZOHA.dir/signup.cpp.obj	88142bf4595eb58c
+440	12064	7373715066704628	CMakeFiles/ZOHA.dir/friendwindow.cpp.obj	5b26420695d41892
+484	12517	7373715071213128	CMakeFiles/ZOHA.dir/viewpage.cpp.obj	369d4b6830975807
+467	12605	7373715072115296	CMakeFiles/ZOHA.dir/activity.cpp.obj	2a41a61db11276c9
+462	12722	7373715073280652	CMakeFiles/ZOHA.dir/shareamemory.cpp.obj	ffe3bbe158a3a08b
+429	13114	7373715077204914	CMakeFiles/ZOHA.dir/mainwindow.cpp.obj	43691dd3a1f6f308
+471	13408	7373715080150989	CMakeFiles/ZOHA.dir/homepage.cpp.obj	263d2ca05f8a0d79
+414	13428	7373715080350414	CMakeFiles/ZOHA.dir/ZOHA_autogen/mocs_compilation.cpp.obj	66ec4e3534f0cc6d
+455	13525	7373715081314451	CMakeFiles/ZOHA.dir/createpost.cpp.obj	f97cc21858970ae
+450	13627	7373715082351655	CMakeFiles/ZOHA.dir/socialapp.cpp.obj	da02fb49ff0e6441
+13628	14490	7373715090887975	ZOHA.exe	b88dc6d0ea5debc
+12	480	7373717795915815	ZOHA_autogen/timestamp	e3a10045461d146
+12	480	7373717795915815	ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+12	480	7373717795915815	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/timestamp	e3a10045461d146
+12	480	7373717795915815	C:/Users/Iqra Pasha/Documents/ZOHA/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/ZOHA_autogen/mocs_compilation.cpp	e3a10045461d146
+527	7756	7373717868731232	CMakeFiles/ZOHA.dir/createpost.cpp.obj	f97cc21858970ae
+507	8369	7373717874867975	CMakeFiles/ZOHA.dir/friendwindow.cpp.obj	5b26420695d41892
+502	8419	7373717875345097	CMakeFiles/ZOHA.dir/timeline.cpp.obj	73c538b29c545c2b
+498	8478	7373717876043308	CMakeFiles/ZOHA.dir/datewindow.cpp.obj	2ad63e336a30322a
+535	8480	7373717876053354	CMakeFiles/ZOHA.dir/activity.cpp.obj	2a41a61db11276c9
+542	8878	7373717880050743	CMakeFiles/ZOHA.dir/homepage.cpp.obj	263d2ca05f8a0d79
+522	9099	7373717882265140	CMakeFiles/ZOHA.dir/shareamemory.cpp.obj	ffe3bbe158a3a08b
+549	9194	7373717883224012	CMakeFiles/ZOHA.dir/viewpage.cpp.obj	369d4b6830975807
+518	9421	7373717885504214	CMakeFiles/ZOHA.dir/signup.cpp.obj	88142bf4595eb58c
+511	9495	7373717886230175	CMakeFiles/ZOHA.dir/socialapp.cpp.obj	da02fb49ff0e6441
+492	9685	7373717888146913	CMakeFiles/ZOHA.dir/mainwindow.cpp.obj	43691dd3a1f6f308
+487	9731	7373717888607107	CMakeFiles/ZOHA.dir/ZOHA_autogen/mocs_compilation.cpp.obj	66ec4e3534f0cc6d
+9731	10442	7373717895651233	ZOHA.exe	b88dc6d0ea5debc
